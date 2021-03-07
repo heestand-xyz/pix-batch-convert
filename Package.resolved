@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Carpaccio",
+        "repositoryURL": "https://github.com/heestand-xyz/Carpaccio",
+        "state": {
+          "branch": null,
+          "revision": "65ded83e31a85ee08bbb4dd69d4e334f35d1c64b",
+          "version": "0.0.7"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
